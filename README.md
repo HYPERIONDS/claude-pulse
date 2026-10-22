@@ -4,8 +4,7 @@
 ![python](https://img.shields.io/badge/python-3.11%2B-3776ab)
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-**Maintained by Devansh Sarwadia. AI-assisted development: Claude Code.** This project
-originated in the `YashwardhanV/claude-pulse` repository. The copyright notice in [LICENSE](LICENSE)
+**Maintained by Devansh Sarwadia. AI-assisted development: Claude Code.** The copyright notice in [LICENSE](LICENSE)
 is retained in accordance with the MIT License.
 
 **A live heartbeat monitor for [Claude Code](https://code.claude.com).** A small always-on-top window on the right edge of your screen that shows what Claude Code is
