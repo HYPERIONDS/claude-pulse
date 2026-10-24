@@ -1,4 +1,5 @@
 """pywebview window: frameless, always on top, docked to the right edge."""
+
 import ctypes
 import ctypes.wintypes
 import logging
