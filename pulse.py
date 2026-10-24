@@ -8,6 +8,7 @@
     python pulse.py status | stop
     python pulse.py ensure-running   (SessionStart hook; reads the hook JSON on stdin)
 """
+
 import argparse
 import logging
 import logging.handlers
